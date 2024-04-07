@@ -1,5 +1,5 @@
 <?php
 
-echo "MY WEBSITE"; 
+echo "MY new WEBSITE"; 
 
 ?>
